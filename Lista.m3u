@@ -151,7 +151,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="" ,AR| TELEFE* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| CANAL 13* 
+#EXTINF:-1 tvg-id="Trece" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logotrececanal.png/250px-Logotrececanal.png" ,PY| CANAL 13* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,PY| AMERICA PARAGUAY* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
