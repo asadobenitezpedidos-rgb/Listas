@@ -187,8 +187,12 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN PREMIUM AR*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| LA TELE*
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png" ,PY| LA TELE*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png",PY • 01 | LA TELE
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png",PY • 02 | LA TELE
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502905.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 118 hd*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 119 hd*
