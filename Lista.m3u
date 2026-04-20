@@ -1,0 +1,244 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/330px-A%26E_Network_logo.svg.png" ,VARIEDADES| A&E hd*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/330px-A24_%282025%29.svg.png" ,AR| A24 HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://es.wikipedia.org/wiki/ABC_TV_(Paraguay)#/media/Archivo:Abc_color.PNG" ,PY| ABC HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 8 hd*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/330px-AXN_logo.svg.png" ,SERIES| AXN HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NIÑOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/330px-Babytvv.png" ,NIÑOS| BABY TV HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/250px-Canal_26_logo_%282022%29.svg.png" ,AR| 26 HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| 5DIAS HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| CINE FAMILIAR HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| CINE HISPANO HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,PELICULAS| CINE PREMIUM HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/330px-CinecanalLA.png" ,CINE| CINECANAL HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NOTICIAS" tvg-logo="" ,NOTICIAS| CNN HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PELICULAS" tvg-logo="" ,PELICULAS| DHE HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2016_Discovery_logo.svg/250px-2016_Discovery_logo.svg.png" ,CULTURA| DISCOVERY HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="" ,CULTURA| DISCOVERY THEATER HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="" ,AR| EDUCANAL HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/250px-Canal13_logo.png" ,AR| TRECE HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CRISTIANOS" tvg-logo="" ,CRISTIANOS| ENLACE HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN 7 HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ RELIGION" tvg-logo="" ,RELIGION| EWTN HD*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| FARRA PLAY*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| FILMS & ARTS*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| HBO 2*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| HBO FAMILY*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| HBO*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| HBO MUNDI*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| HBO SIGNATURE*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| HBO XTREME*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| HBO+*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="" ,CULTURA| HISTORY*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="" ,CULTURA| HOLA!TV*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="" ,CULTURA| H&H*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ MUSICA" tvg-logo="" ,MUSICA| hTV*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="" ,CULTURA| DISCOVERY ID*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ SERIES" tvg-logo="" ,SERIES| AMC*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| DAFA NEWS*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ SERIES" tvg-logo="" ,SERIES| A3 SERIES*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="" ,CULTURA| NATGEO* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ RELIGION" tvg-logo="" ,RELIGION| RELIGIO* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NOVELAS" tvg-logo="" ,NOVELAS| PASIONES* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| RCC* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ SERIES" tvg-logo="" ,SERIES| SONY* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| SPACE* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| STAR CHANNEL* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CULTURA" tvg-logo="" ,CULTURA| STAR TP* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| STUDIO UNIVERSAL* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ INTERNACIONAL" tvg-logo="" ,INTERNACIONAL| TELEMUNDO INTERNACIONAL* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="" ,AR| TN NOTICIAS* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| TNT* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NOVELAS" tvg-logo="" ,NOVELAS| TNT NOVELAS* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/57.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ INTERNACIONAL" tvg-logo="" ,INTERNACIONAL| TEVE MONDE* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| TyC SPORT* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| UNIVERSAL CINEMA* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| UNIVERSAL COMEDY*  
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| UNIVERSAL CRIME* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| UNIVERSAL PREMIERE* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE| UNIVERSAL+*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| VENUS MEDIA* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| TROPICALIA* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ SERIES" tvg-logo="" ,SERIES| WARNER* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ INFANTIL" tvg-logo="" ,INFANTIL| TOONCAST* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ BRASIL" tvg-logo="" ,BR| 70 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| NPY* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| UNICANAL* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 73 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| TELEFUTURO* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 75 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 76 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 77 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 78 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 79 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ BRASIL" tvg-logo="" ,BR| GLOBO* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="" ,AR| TELEFE* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| CANAL 13* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,PY| AMERICA PARAGUAY* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 84 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 85 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| TNT SPORT PREMIUM CHILE* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 87 hd* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN 2* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN 3* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN 4* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE|FREE TV DRAMA* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="" ,CINE|FREE TV ESTELAR* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ COCINA" tvg-logo="" ,COCINA| TASTE MADE* 
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ INTERNACIONAL" tvg-logo="" ,INTERNACIONAL| FRANCE 24*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ BRASIL" tvg-logo="" ,BR| JP NEWS*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| SNT*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ INFANTIL" tvg-logo="" ,INFANTIL| DISNEY JUNIOR*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| ESPN PREMIUM AR*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| LA TELE*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 118 hd*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 119 hd*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| PARAVISION*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ INTERNACIONAL" tvg-logo="" ,INTERNACIONAL| CANAL DE LAS ESTRELLAS*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| SporTV Alternativo SD
+https://stm.sinalmycn.com/19024/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DEPORTES" tvg-logo="" ,DEPORTES| SporTV Alternativo 2 SD
+https://stm.sinalmycn.com/19025/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png/250px-Sur_TV_Itap%C3%BAa_logo_2022.png" ,PY| SUR TV*
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ TIGO" tvg-logo="https://i.ibb.co/1fZk2KkT/KN-rezice.png" , TIGO| TIGO WEB 1*
+https://killermina.github.io/mi-player-html/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ TIGO" tvg-logo="https://i.ibb.co/1fZk2KkT/KN-rezice.png" , TIGO| TIGO WEB 2*
+https://killermina.github.io/player2/
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ TIGO" tvg-logo="https://i.imgur.com/c2rF3SS.png",CINE| CANAL NEXT* 
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:0 group-title="Tigo Sports ver 2" group-logo="https://i.ibb.co/KjVrMShr/Tigo-Sports-2025.png"
+#
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+#EXTINF:-1 tvg-name="EVENTOS PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg", group-title="Tigo Sports", EVENTOS PY
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTINF:-1 tvg-name="EVENTOS+ PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg", group-title="Tigo Sports", EVENTOS PY 2 
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1  group-title="Tigo Sports" tvg-name="EVENTOS 3 PY" tvg-logo="https://i.ibb.co/bQxPJ4D/ead-QN2-W9-400x400.jpg", EVENTOS 3 PY
+https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/120px-Cine.Ar_logo.svg.png", CINE AR (1080) 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/330px-CinecanalLA.png", CINECANAL (1080) 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/330px-AXN_logo_%282015%29.svg.png", AXN 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/330px-AXN_logo_%282015%29.svg.png", METRO
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-53_480.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-name="" group-title="⭐️ INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/330px-AXN_logo_%282015%29.svg.png", Disney Channel Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
