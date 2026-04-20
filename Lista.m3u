@@ -84,7 +84,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NOVELAS" tvg-logo="" ,NOVELAS| PASIONES* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| RCC* 
+#EXTINF:-1 tvg-id="" tvg-name="RCC TV" group-title="⭐️ PARAGUAY" tvg-logo="https://rcc.com.py/wp-content/uploads/2025/03/RCC-Con-Radios-Aliadas.png" ,PY| RCC* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ SERIES" tvg-logo="" ,SERIES| SONY* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
@@ -129,7 +129,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ BRASIL" tvg-logo="" ,BR| 70 hd* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| NPY* 
+#EXTINF:-1 tvg-id="" tvg-name="NPY" group-title="⭐️ PARAGUAY" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n-py-py.png" ,PY| NPY* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unicanal" group-title="⭐️ PARAGUAY" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unicanal-py.png" ,PY| UNICANAL* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
