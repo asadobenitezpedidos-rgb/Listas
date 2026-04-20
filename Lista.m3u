@@ -4,7 +4,7 @@
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/330px-A24_%282025%29.svg.png" ,AR| A24 HD
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://play-lh.googleusercontent.com/nN9hyoWt0dzStX1rvxf80-0plX8ReqoVPOsm70tAhtBHcBBSFGENfXs7kLlf1UhU8aw=w600-h300-pc0xffffff-pd" , PY| ABC HD*
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/047bd710a8be98ea6f7cf79b66481119.png" , PY| ABC HD*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 8 hd*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
