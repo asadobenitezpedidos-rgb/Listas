@@ -235,3 +235,5 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-53_480.m
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÑANDUTI TV" group-title="⭐️ PARAGUAY" tvg-logo="https://nanduti.com.py/_next/static/media/LogoNandutiAudios.60c3407b.svg" , ÑANDUTI 
 https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSO TV" group-title="⭐️ PARAGUAY" tvg-logo="https://i.ibb.co/zVv33gzz/image.png" , ÑANDUTI 
+https://rds3gen.desdeparaguay.net/universotv/universotv_int_alta/index.m3u8?admin=nacion
