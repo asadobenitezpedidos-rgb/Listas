@@ -131,11 +131,11 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| NPY* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| UNICANAL* 
+#EXTINF:-1 tvg-id="" tvg-name="Unicanal" group-title="⭐️ PARAGUAY" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unicanal-py.png" ,PY| UNICANAL* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 73 hd* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/73.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| TELEFUTURO* 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telefuturo-py.png" ,PY| TELEFUTURO* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 75 hd* 
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/75.m3u8
@@ -193,7 +193,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/117.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PRUEBA" tvg-logo="" ,prueba| 119 hd*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="" ,PY| PARAVISION*
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paravision.png" ,PY| PARAVISION*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ INTERNACIONAL" tvg-logo="" ,INTERNACIONAL| CANAL DE LAS ESTRELLAS*
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/121.m3u8
