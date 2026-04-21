@@ -270,7 +270,7 @@ http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502902.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png",PY | RPC TRECE
 http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502903.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png",PY • 01 | LA TELE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NOTICIAS" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",FRANCE 24 NOTICIAS HD
 http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502904.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png",PY • 02 | LA TELE
@@ -297,5 +297,6 @@ http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502911.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/bd0f9c16e491e87c4927e75643454eef.jpg",PY | GEN TV
 http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502912.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NOTICIAS" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",FRANCE 24 NOTICIAS HD
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/518532.m3u8
 
