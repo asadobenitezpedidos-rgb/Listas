@@ -247,6 +247,55 @@ https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacci
 https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="" tvg-name="UNION TV" group-title="⭐️ PARAGUAY" tvg-logo="https://i.ibb.co/HLvq6nfQ/logo-retina-01.png" , UNION TV 
 https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/047bd710a8be98ea6f7cf79b66481119.png",PY | ABC TV
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png",PY | TELEFUTURO HD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502897.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Telefuturo2010.png",PY | TELEFUTURO HD
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502898.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/b91fc890056aebc89badd6be7585276f.jpg",PY | C9N NOTICIAS HD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502899.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/b91fc890056aebc89badd6be7585276f.jpg",PY | C9N NOTICIAS SD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502900.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png",PY| SNT HD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502901.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png",PY | SNT SD
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502902.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png",PY | RPC TRECE
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502903.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png",PY • 01 | LA TELE
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502904.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Ltlcolor.png",PY • 02 | LA TELE
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502905.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png",PY | NOTICIAS PY HD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502906.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/02ab9196949d1194d24fed4d01735612.jpg",PY | UNICANAL HD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502907.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/b91fc890056aebc89badd6be7585276f.jpg",PY | C9N NOTICIAS HD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502908.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/b91fc890056aebc89badd6be7585276f.jpg",PY | C9N NOTICIAS SD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502909.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png",PY| SNT HD*
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502910.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://es.wikipedia.org/wiki/Sur_Televisora_Itap%C3%BAa#/media/Archivo:Sur_TV_Itap%C3%BAa_logo_2022.png",PY| SUR TV
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502911.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="http://redworld.pro:8880/images/bd0f9c16e491e87c4927e75643454eef.jpg",PY | GEN TV
+http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502912.m3u8
 
 
 
