@@ -319,4 +319,12 @@ http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502911.m3u8
 http://redworld.pro:8880/live/Contable/et9BY5gGswzE/502912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ NOTICIAS" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png",FRANCE 24 NOTICIAS HD
 http://redworld.pro:8880/live/Contable/et9BY5gGswzE/518532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ESPN" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png",ESPN 3 (CHI)
+http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/167965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ESPN" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png",ESPN 2 (CHI)
+http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/167964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DSPORT" tvg-logo="http://redworld.pro:8880/images/02fa25039bab7a36031658b571bc59cf.png",DPORTS 1 (CHI)
+http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/167962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ DSPORT" tvg-name="" group-title="⭐️ CHILE DEPORTE" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png",DSPORT 2 (CHI)
+http://rlatinop.com:8880/live/superplusrestream/dEH3pv9zLdWu/338193.m3u8
 
