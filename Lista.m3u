@@ -341,5 +341,9 @@ http://rlatinop.com:8880/live/superplusrestream/dEH3pv9zLdWu/418591.m3u8
 http://rlatinop.com:8880/live/superplusrestream/dEH3pv9zLdWu/418592.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ ESPN" tvg-logo="",ESPN 7
 http://rlatinop.com:8880/live/superplusrestream/dEH3pv9zLdWu/418593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⭐️ PARAGUAY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_AM%2C_FM%2C_Diarium_y_TV.jpg/330px-Logo_AM%2C_FM%2C_Diarium_y_TV.jpg" ,PY| CARITAS TV*
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÑANDUTI TV" group-title="⭐️ PARAGUAY" tvg-logo="https://nanduti.com.py/_next/static/media/LogoNandutiAudios.60c3407b.svg" , ÑANDUTI
+https://tigocloudgen.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w780917068.m3u8
 
 https://raw.githubusercontent.com/tvkallytv-ship-it/yamilpro/refs/heads/main/4c.m3u
