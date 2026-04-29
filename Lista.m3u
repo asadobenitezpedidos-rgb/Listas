@@ -345,5 +345,7 @@ http://rlatinop.com:8880/live/superplusrestream/dEH3pv9zLdWu/418593.m3u8
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ÑANDUTI TV" group-title="⭐️ PARAGUAY" tvg-logo="https://nanduti.com.py/_next/static/media/LogoNandutiAudios.60c3407b.svg" , ÑANDUTI
 https://tigocloudgen.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w780917068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ÑANDUTI TV" group-title="⭐️ PARAGUAY" tvg-logo="https://mqvradio.com/img/radio-mqv-logo-yeah-py.png" , MQV TV
+https://www.desde-paraguay.com/mqvtv.m3u8
 
 https://raw.githubusercontent.com/tvkallytv-ship-it/yamilpro/refs/heads/main/4c.m3u
