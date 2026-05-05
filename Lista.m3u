@@ -349,5 +349,69 @@ https://tigocloudgen.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist_w78091
 https://www.desde-paraguay.com/mqvtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Monumental" group-title="⭐️ PARAGUAY" tvg-logo="https://grupovierci.brightspotcdn.com/dims4/default/0cc9eb0/2147483647/strip/true/crop/950x590+0+0/resize/400x248!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2Fa5%2F7bfdcd054efeb775c920a20f44c4%2Flogo-monu-fondo-claro.png" , MONUMENTAL TV
 https://tigocloudgen.desdeparaguay.net/monumentaltv/monumentaltv_med/chunklist_w422783289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="JrOIpxZm44M/X3O4mgdBcjI/AAAAAAAABqw/8lbyMtW-2s41XGOWRCpSP168bU18B_l3ACLcBGAsYHQ/w200-h200/Canal%2Bc9n%2BParaguay",PAR-C9N (TV)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="QVh14wfX-1Q/X3O4l9KvTfI/AAAAAAAABqg/MlbExVBmd34hWVgWTT63NdkZVEzPin2kgCLcBGAsYHQ/w200-h200/Cana%2BGen%2Btv%2BParaguay",PAR-FARRA PLAY (Z)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="ay35-McTdkA/X3O4ndUsEHI/AAAAAAAABq0/F6ytXdEqeIcsVdeOoLvo2H2-JFBfsUrxwCLcBGAsYHQ/w200-h200/Canal%2Bla%2Btele%2BParaguay",PAR-LA TELE (TV)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay",PAR-NEXTV (Z)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="zJzM4ug1J-E/X3O4l11abFI/AAAAAAAABqk/V6ZgtTnTG6ITcyXGwcDyaTfvYzY4gLveQCLcBGAsYHQ/w200-h200/Canal%2BParaguay%2Btv%2BParaguay",PAR-PARAVISION (T)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="JltdzB525gk/X3O4oWM-i4I/AAAAAAAABq8/y7Ioet0emlQ8SW5oD5Z7_zbiKJAZRyRBgCLcBGAsYHQ/w200-h200/Canal%2Bparavisi%25C3%25B3n%2BParaguay",PAR-PARAVISION (Z)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="zJzM4ug1J-E/X3O4l11abFI/AAAAAAAABqk/V6ZgtTnTG6ITcyXGwcDyaTfvYzY4gLveQCLcBGAsYHQ/w200-h200/Canal%2BParaguay%2Btv%2BParaguay",PAR-RCC (Z)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="5l28tZx2j7w/X3O4pf-jWeI/AAAAAAAABrE/eZwAPegHCrYzWtMblWfnPrO1fh3o2ZqSwCLcBGAsYHQ/w200-h200/Canal%2Brpc%2BParaguay",PAR-RPC PY (HD)(Z)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay",PAR-TELEFUTURO (Z)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="NSFaHxIZvsU/X3O4rTPeqrI/AAAAAAAABrU/_X4L4S_rHiYiIIucuqmzowWIx-HJZXTKgCLcBGAsYHQ/w200-h200/Unicanal%2Bparaguay",PAR-UNICANAL (Z)(720)
+http://tv.nuevadomi.com:8080/live/Micue682gf9natoy/6ddb2fe10731/84575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/C9NPY2019.svg/revision/latest/scale-to-width-down/1000?cb=20240216204037&path-prefix=es",PY: C9N HD
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wixstatic.com/media/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png/v1/fill/w_2500,h_1148,al_c/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png",PY: CANAL PRO HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://lanacionpy.nyc3.cdn.digitaloceanspaces.com/img/gen/gen.jpg",PY: GEN TV HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/LaTelePY2023.png/revision/latest/scale-to-width-down/1000?cb=20230925231109&path-prefix=es",PY: LA TELE
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://cdn.rcc.com.py/2024/07/logo-rcc-holding-100px.png",PY: RCC CANAL 21.1
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/1000?cb=20210512141427&path-prefix=es",PY: PARAGUAY TV SD
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/1000?cb=20210512141427&path-prefix=es",PY: PARAGUAY TV HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es",PY: PARAVISION HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://media.trece.com.py/sites/2/2022/06/logo-300x136-1.jpg",PY: TRECE
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest/scale-to-width-down/1000?cb=20220908172855&path-prefix=es",PY: SNT HD
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest/scale-to-width-down/1000?cb=20220908172855&path-prefix=es",PY: SNT HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/SNT_2013.png/revision/latest/scale-to-width-down/1000?cb=20220908172855&path-prefix=es",PY: SNT SD
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738",PY: SUR TV HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Telefuturo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221112164348&path-prefix=es",PY: TELEFUTURO HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Telefuturo_2022.png/revision/latest/scale-to-width-down/1000?cb=20221112164348&path-prefix=es",PY: TELEFUTURO SD
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Unicanal-logo.png/revision/latest?cb=20140115100336",PY: UNICANAL HD (H265)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es",PY: PARAVISION SD
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://yt3.googleusercontent.com/Bo7R-1TgvF6-8zCGVeLJzLz455Y-cdNPHtpEZxyPPHT1tQEHxpS4VOnSe_nrbxDQzm6y4S2Z=s900-c-k-c0x00ffffff-no-rj",ABC PARAGUAY
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/157647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NoticiasPY2023.png/revision/latest/scale-to-width-down/1000?cb=20231122210419&path-prefix=es",PY: NOTICIAS PARAGUAY HD
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/18443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg",PY // TIGO PARAGUAY HD (SOLO EVENTOS)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/153286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg",PY // TIGO PARAGUAY OPC2 (SOLO EVENTOS)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/153287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PARAGUAY" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg",PY // TIGO PARAGUAY OPC3 (SOLO EVENTOS)
+http://xinfinitytv.com:80/live/Fernando00/Fernando00/314018.m3u8
 
 https://raw.githubusercontent.com/tvkallytv-ship-it/yamilpro/refs/heads/main/4c.m3u
