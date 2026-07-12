@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6a28473207e693.35309536.png" group-title="🏆MUNDIAL FIFA 2026🏆",CAMARA DT
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6a28467e5acbd2.84801314.png" group-title="🏆MUNDIAL FIFA 2026🏆",CAMARA JUGADOR
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYS9CLJ6/DSports.png" group-title="🏆MUNDIAL FIFA 2026🏆",DIRECTV MUNDIAL
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6a27a0cd298a45.66546362.png" group-title="🏆MUNDIAL FIFA 2026🏆",DSPORTS 1 FLOW
+https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6a27a1611e4155.61879396.png" group-title="🏆MUNDIAL FIFA 2026🏆",DSPORTS 2 FLOW
+https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_2/SA_Live_dash_enc_wl/DSports_2.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6DkDPzs/ESPN.png" group-title="🏆MUNDIAL FIFA 2026🏆",ESPN MUNDIAL
+http://flow-cdn-gcp.app.flow.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6DkDPzs/ESPN.png" group-title="🏆MUNDIAL FIFA 2026🏆",ESPN MUNDIAL 2
+https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNTQ1YzZkODk5NDk1ZDU4Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODE0MDI3MzctNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Eok0u3xCiLSHirL6CRxGgRQEBag0odUVfZmZn5e3gn8P9wagmLZhvQQaIMoJkPrPt_VsPsWM353-ukpup3CJMA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMtfTcK0/fox.png" group-title="🏆MUNDIAL FIFA 2026🏆",FOX MUNDIAL
+https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNTQ1YzZkODk5NDk1ZDU4Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODE0MDI3MzctNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Eok0u3xCiLSHirL6CRxGgRQEBag0odUVfZmZn5e3gn8P9wagmLZhvQQaIMoJkPrPt_VsPsWM353-ukpup3CJMA==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wF3MmkGN/Punto-Play-1.png" group-title="🏆MUNDIAL FIFA 2026🏆",GLOBO SP
+https://live.mediapro.com.br/hls/bh-globo/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.femon.net/tv/banners/6a2847b9ef0f13.37782679.png" group-title="🏆MUNDIAL FIFA 2026🏆",MULTICAMARA
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_Multicam/SA_Live_dash_enc/GEN_Multicam.mpd
+#EXTINF:-1
+tvg-logo="https://i.ibb.co/b5DncQn1/Punto-Play-SBT.png" group-title="🏆MUNDIAL FIFA 2026🏆",SBT
+http://79.127.243.211:14095/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVpdcK5j/Punto-Play-TVP.png" group-title="🏆MUNDIAL FIFA 2026🏆",TVP FHD
+https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNTQ1YzZkODk5NDk1ZDU4Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODE0MDI3MzctNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Eok0u3xCiLSHirL6CRxGgRQEBag0odUVfZmZn5e3gn8P9wagmLZhvQQaIMoJkPrPt_VsPsWM353-ukpup3CJMA==/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q353PXB8/Punto-Play-TELEFE.png" group-title="🏆MUNDIAL FIFA 2026🏆",TELEFE FHD
+https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNTQ1YzZkODk5NDk1ZDU4Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODE0MDI3MzctNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Eok0u3xCiLSHirL6CRxGgRQEBag0odUVfZmZn5e3gn8P9wagmLZhvQQaIMoJkPrPt_VsPsWM353-ukpup3CJMA==/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wwqbBjW/Punto-Play.png" group-title="🏆MUNDIAL FIFA 2026🏆",TyC SPORTS FHD
+https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxNTc1NTM3Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNTQ1YzZkODk5NDk1ZDU4Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODE0MDI3MzctNjUyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Eok0u3xCiLSHirL6CRxGgRQEBag0odUVfZmZn5e3gn8P9wagmLZhvQQaIMoJkPrPt_VsPsWM353-ukpup3CJMA==/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
+#EXTINF:-1
